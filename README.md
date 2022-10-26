@@ -1,20 +1,8 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**DUDURIM/DUDURIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :computer: Hi there :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DUDURIM%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DUDURIM%20&fontColor=#25344&fontSize=90&)
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDUDURIM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -34,17 +22,34 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
+
 <div align="center">
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUDURIM)](https://github.com/DUDURIM/github-readme-stats)
+<h1>Retained Equipment</h1>
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lenovo-E2231A?style=flat-square&logo=Lenovo&logoColor=white"/>
+</br>
+</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDURIM&langs_count=5)](https://github.com/DUDURIM/github-readme-stats)
+<h1>Contact</h1>
+<a href="mailto:dudurim74@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:paul1577@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</br>
+</br>
+
+
+![DUDURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUDURIM&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDURIM&langs_count=5&theme=tokyonight)
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
+</div>
 
