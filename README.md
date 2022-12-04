@@ -9,6 +9,7 @@
 </div>
 <h3>:wave:안녕하세요! 꾸준함과 성실함으로 무장된 개발자 정구영 입니다.:wave:</h3>
 <h3>:heart:</h3>
+<p>업데이트 중...</p>
 </br>
 </br>
 <div align=center>
