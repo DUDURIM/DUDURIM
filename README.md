@@ -14,7 +14,7 @@
 </br>
 </br>
 <div align=center>
-<h1>Tech Stack</h1>
+<h1>Tech Stack Web</h1>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -33,6 +33,13 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
+</br>
+
+<div align=center>
+<h1>Tech Stack Machine</h1>
+<img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=HTML5&logoColor=white"/> Autocad
+<img src="https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=CSS3&logoColor=white"/> UG-NX
 </div>
 </br>
 </br>
