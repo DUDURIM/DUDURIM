@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lenovo-E2231A?style=flat-square&logo=Lenovo&logoColor=white"/>
+<img src="https://img.shields.io/badge/hp-0096D6?style=flat-square&logo=hp&logoColor=white"/>
 </br>
 </br>
 
