@@ -38,8 +38,9 @@
 
 <div align=center>
 <h1>Tech Stack Machine</h1>
-<img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=HTML5&logoColor=white"/> Autocad
-<img src="https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=CSS3&logoColor=white"/> UG-NX
+<img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=CSS3&logoColor=white"/>
+  <p>Autocad&nbsp;&nbsp;UG-NX</p>
 </div>
 </br>
 </br>
