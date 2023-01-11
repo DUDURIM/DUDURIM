@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lenovo-E2231A?style=flat-square&logo=Lenovo&logoColor=white"/>
 <img src="https://img.shields.io/badge/hp-0096D6?style=flat-square&logo=hp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/LG-A50034?style=flat-square&logo=LG&logoColor=white"/>
 </br>
 </br>
