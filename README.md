@@ -1,6 +1,6 @@
 <div align="center">
 
-### :computer: Hi there :computer:
+### :computer: Hi there ^^ :computer:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DUDURIM&fontSize=90&animation=twinkling)
 
