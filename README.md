@@ -60,6 +60,7 @@
 </br>
 
 <p> 장비 일부 정리중.</p>
+<p> 업데이트중 </p>
 
 <h1>Contact</h1>
 <a href="mailto:dudurim74@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
