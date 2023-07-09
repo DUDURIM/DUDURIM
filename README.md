@@ -42,7 +42,7 @@
 <h1>Tech Stack Machine</h1>
 <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=Siemens&logoColor=white"/>
-  <p>Autocad&nbsp;&nbsp;UG-NX&nbsp;&nbsp;연습중...</p>
+  <p>Autocad&nbsp;&nbsp;UG-NX&nbsp;&nbsp;연습중....</p>
   <img src="https://img.shields.io/badge/Dassault Systèmes-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/>
   <p>SOLIDWORKS&nbsp;&nbsp;연습중...</p>
 </div>
